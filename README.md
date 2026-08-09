@@ -6,7 +6,9 @@
 
 ## 💻 Como acionar o script?
 *1-* Clone o repositório na sua máquina local
+
 *2-* Clique com botão direito no ícone do windows e abra o terminal via admin.
+
 <img width="241" height="53" alt="image" src="https://github.com/user-attachments/assets/7480c67d-b516-4462-a6ee-bdc180447012" />
 
 *3-* Entre na pasta em que está o script **| cd pastaDoSeuScript |**.
