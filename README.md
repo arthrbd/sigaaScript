@@ -12,6 +12,7 @@
 <img width="241" height="53" alt="image" src="https://github.com/user-attachments/assets/7480c67d-b516-4462-a6ee-bdc180447012" />
 
 *3-* Entre na pasta em que está o script **| cd pastaDoSeuScript |**.
+
 *4-* Execute seu script **| python -i scriptSIGAA.py |** e aguarde a liberação de uma vaga!
 
 
