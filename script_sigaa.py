@@ -41,7 +41,7 @@ for i in range(5):
         sys.stdout.flush()
         time.sleep(0.3)
 
-#Procura a porra de orientacao a objetos
+#Procura a matéria desejada
 driver.find_element(By.XPATH, '//*[@id="form:txtCodigo"]').send_keys("materiaDesejada")
 driver.find_element(By.XPATH, '//*[@id="form:buscar"]').click()
 time.sleep(3)
@@ -63,7 +63,7 @@ while True:
         print(f'[{tempo}] Vagas disponíveis: {vagaDisponivel}')
 
         if vagaDisponivel > 0:
-            print('Vaga encontrada! Corre desgrama!')
+            print('Vaga encontrada! Corre!')
             winsound.Beep(1000, 10000)  
             break 
 
